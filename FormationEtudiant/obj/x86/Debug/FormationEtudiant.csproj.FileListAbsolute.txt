@@ -1,0 +1,15 @@
+C:\Users\Dhia Ben Slimen\AppData\Local\Temporary Projects\FormationEtudiant\bin\Debug\FormationEtudiant.exe
+C:\Users\Dhia Ben Slimen\AppData\Local\Temporary Projects\FormationEtudiant\bin\Debug\FormationEtudiant.pdb
+C:\Users\Dhia Ben Slimen\AppData\Local\Temporary Projects\FormationEtudiant\obj\x86\Debug\FormationEtudiant.Form1.resources
+C:\Users\Dhia Ben Slimen\AppData\Local\Temporary Projects\FormationEtudiant\obj\x86\Debug\FormationEtudiant.Properties.Resources.resources
+C:\Users\Dhia Ben Slimen\AppData\Local\Temporary Projects\FormationEtudiant\obj\x86\Debug\FormationEtudiant.csproj.GenerateResource.Cache
+C:\Users\Dhia Ben Slimen\AppData\Local\Temporary Projects\FormationEtudiant\obj\x86\Debug\FormationEtudiant.exe
+C:\Users\Dhia Ben Slimen\AppData\Local\Temporary Projects\FormationEtudiant\obj\x86\Debug\FormationEtudiant.pdb
+C:\Users\Dhia Ben Slimen\Documents\Visual Studio 2010\Projects\FormationEtudiant\FormationEtudiant\obj\x86\Debug\FormationEtudiant.exe
+C:\Users\Dhia Ben Slimen\Documents\Visual Studio 2010\Projects\FormationEtudiant\FormationEtudiant\obj\x86\Debug\FormationEtudiant.pdb
+C:\Users\Dhia Ben Slimen\Documents\Visual Studio 2010\Projects\FormationEtudiant\FormationEtudiant\bin\Debug\FormationEtudiant.exe
+C:\Users\Dhia Ben Slimen\Documents\Visual Studio 2010\Projects\FormationEtudiant\FormationEtudiant\bin\Debug\FormationEtudiant.pdb
+C:\Users\Dhia Ben Slimen\Documents\Visual Studio 2010\Projects\FormationEtudiant\FormationEtudiant\obj\x86\Debug\FormationEtudiant.csprojResolveAssemblyReference.cache
+C:\Users\Dhia Ben Slimen\Documents\Visual Studio 2010\Projects\FormationEtudiant\FormationEtudiant\obj\x86\Debug\FormationEtudiant.cmb_formation.resources
+C:\Users\Dhia Ben Slimen\Documents\Visual Studio 2010\Projects\FormationEtudiant\FormationEtudiant\obj\x86\Debug\FormationEtudiant.Properties.Resources.resources
+C:\Users\Dhia Ben Slimen\Documents\Visual Studio 2010\Projects\FormationEtudiant\FormationEtudiant\obj\x86\Debug\FormationEtudiant.csproj.GenerateResource.Cache
